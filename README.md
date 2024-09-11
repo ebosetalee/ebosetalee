@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=yellowgreen&labelColor=yellow)
 
-### Github Stats
+### Public Repo Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebosetalee&layout=compact)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebosetalee&show_icons=true&show=prs_merged&hide=contribs&locale=en&theme=monokai&hide_border=true&count_private=true" alt="Stats" />
