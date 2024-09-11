@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebosetalee&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebosetalee&show_icons=true&locale=en&theme=monokai&hide_border=true&count_private=true" alt="Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebosetalee&show_icons=true&show=reviews,prs_merged&hide=contribs&locale=en&theme=monokai&hide_border=true&count_private=true" alt="Stats" />
