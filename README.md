@@ -1,3 +1,4 @@
+![akatsuki](IMG_0497.jpeg)
 # Hi, I'm Emmanuella 👋
 
 <!--
