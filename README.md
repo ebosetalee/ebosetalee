@@ -1,4 +1,6 @@
-## Hi there 👋
+![kratos!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q0bHBicjZyYnJta2pveTZ5c2tpdzU5dWx2c29nb3F4a2I0dmllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVGdG2HimJl6APwPiE/giphy.gif)
+
+# Hi, I'm Emmanuella 👋
 
 <!--
 **ebosetalee/ebosetalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
