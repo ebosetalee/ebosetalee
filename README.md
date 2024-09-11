@@ -1,4 +1,4 @@
-![kratos!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q0bHBicjZyYnJta2pveTZ5c2tpdzU5dWx2c29nb3F4a2I0dmllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVGdG2HimJl6APwPiE/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q0bHBicjZyYnJta2pveTZ5c2tpdzU5dWx2c29nb3F4a2I0dmllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVGdG2HimJl6APwPiE/giphy.gif" width="1000" height="auto" alt="kratos!">
 
 # Hi, I'm Emmanuella 👋
 
