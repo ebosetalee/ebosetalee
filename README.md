@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on alot of exciting projects 
+- 🌱 I’m currently learning the [fundamentals of backend communications and protocols](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols)
 - ⚡ Fun fact: I like adventure games
 - 📫 How to reach me: **ertukpe@gmail.com**
 
